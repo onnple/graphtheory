@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+G:/clion/graphtheory/cyclegraph.h
+
+G:/clion/graphtheory/densegraph.h
+
+G:/clion/graphtheory/graph.h
+list.h
+G:/clion/graphtheory/list.h
+
+G:/clion/graphtheory/list.h
+
+G:/clion/graphtheory/main.c
+stdio.h
+-
+densegraph.h
+G:/clion/graphtheory/densegraph.h
+queue.h
+G:/clion/graphtheory/queue.h
+sparsegraph.h
+G:/clion/graphtheory/sparsegraph.h
+cyclegraph.h
+G:/clion/graphtheory/cyclegraph.h
+graph.h
+G:/clion/graphtheory/graph.h
+
+G:/clion/graphtheory/queue.h
+
+G:/clion/graphtheory/sparsegraph.h
+list.h
+G:/clion/graphtheory/list.h
+

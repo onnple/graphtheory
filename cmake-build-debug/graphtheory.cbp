@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="graphtheory"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="G:/clion/graphtheory/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/Qt/Tools/mingw491_32/bin/mingw32-make.exe -f &quot;G:/clion/graphtheory/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="E:/Qt/Tools/mingw491_32/bin/mingw32-make.exe -f &quot;G:/clion/graphtheory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Qt/Tools/mingw491_32/bin/mingw32-make.exe -f &quot;G:/clion/graphtheory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Qt/Tools/mingw491_32/bin/mingw32-make.exe -f &quot;G:/clion/graphtheory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="graphtheory">
+				<Option output="G:/clion/graphtheory/cmake-build-debug/graphtheory.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="G:/clion/graphtheory/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Qt/Tools/mingw491_32/bin/../lib/gcc/i686-w64-mingw32/4.9.1/include"/>
+					<Add directory="E:/Qt/Tools/mingw491_32/bin/../lib/gcc/i686-w64-mingw32/4.9.1/include-fixed"/>
+					<Add directory="E:/Qt/Tools/mingw491_32/bin/../lib/gcc/i686-w64-mingw32/4.9.1/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Qt/Tools/mingw491_32/bin/mingw32-make.exe -f &quot;G:/clion/graphtheory/cmake-build-debug/Makefile&quot;  VERBOSE=1 graphtheory"/>
+					<CompileFile command="E:/Qt/Tools/mingw491_32/bin/mingw32-make.exe -f &quot;G:/clion/graphtheory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Qt/Tools/mingw491_32/bin/mingw32-make.exe -f &quot;G:/clion/graphtheory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Qt/Tools/mingw491_32/bin/mingw32-make.exe -f &quot;G:/clion/graphtheory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="graphtheory/fast">
+				<Option output="G:/clion/graphtheory/cmake-build-debug/graphtheory.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="G:/clion/graphtheory/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Qt/Tools/mingw491_32/bin/../lib/gcc/i686-w64-mingw32/4.9.1/include"/>
+					<Add directory="E:/Qt/Tools/mingw491_32/bin/../lib/gcc/i686-w64-mingw32/4.9.1/include-fixed"/>
+					<Add directory="E:/Qt/Tools/mingw491_32/bin/../lib/gcc/i686-w64-mingw32/4.9.1/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Qt/Tools/mingw491_32/bin/mingw32-make.exe -f &quot;G:/clion/graphtheory/cmake-build-debug/Makefile&quot;  VERBOSE=1 graphtheory/fast"/>
+					<CompileFile command="E:/Qt/Tools/mingw491_32/bin/mingw32-make.exe -f &quot;G:/clion/graphtheory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Qt/Tools/mingw491_32/bin/mingw32-make.exe -f &quot;G:/clion/graphtheory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Qt/Tools/mingw491_32/bin/mingw32-make.exe -f &quot;G:/clion/graphtheory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="G:/clion/graphtheory/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/Qt/Tools/mingw491_32/bin/mingw32-make.exe -f &quot;G:/clion/graphtheory/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="E:/Qt/Tools/mingw491_32/bin/mingw32-make.exe -f &quot;G:/clion/graphtheory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Qt/Tools/mingw491_32/bin/mingw32-make.exe -f &quot;G:/clion/graphtheory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Qt/Tools/mingw491_32/bin/mingw32-make.exe -f &quot;G:/clion/graphtheory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="G:/clion/graphtheory/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/Qt/Tools/mingw491_32/bin/mingw32-make.exe -f &quot;G:/clion/graphtheory/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="E:/Qt/Tools/mingw491_32/bin/mingw32-make.exe -f &quot;G:/clion/graphtheory/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Qt/Tools/mingw491_32/bin/mingw32-make.exe -f &quot;G:/clion/graphtheory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Qt/Tools/mingw491_32/bin/mingw32-make.exe -f &quot;G:/clion/graphtheory/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="G:/clion/graphtheory/binaryheap.c">
+			<Option target="graphtheory"/>
+		</Unit>
+		<Unit filename="G:/clion/graphtheory/binaryheap.h">
+			<Option target="graphtheory"/>
+		</Unit>
+		<Unit filename="G:/clion/graphtheory/cyclegraph.c">
+			<Option target="graphtheory"/>
+		</Unit>
+		<Unit filename="G:/clion/graphtheory/cyclegraph.h">
+			<Option target="graphtheory"/>
+		</Unit>
+		<Unit filename="G:/clion/graphtheory/densegraph.c">
+			<Option target="graphtheory"/>
+		</Unit>
+		<Unit filename="G:/clion/graphtheory/densegraph.h">
+			<Option target="graphtheory"/>
+		</Unit>
+		<Unit filename="G:/clion/graphtheory/disjset.c">
+			<Option target="graphtheory"/>
+		</Unit>
+		<Unit filename="G:/clion/graphtheory/disjset.h">
+			<Option target="graphtheory"/>
+		</Unit>
+		<Unit filename="G:/clion/graphtheory/graph.c">
+			<Option target="graphtheory"/>
+		</Unit>
+		<Unit filename="G:/clion/graphtheory/graph.h">
+			<Option target="graphtheory"/>
+		</Unit>
+		<Unit filename="G:/clion/graphtheory/list.c">
+			<Option target="graphtheory"/>
+		</Unit>
+		<Unit filename="G:/clion/graphtheory/list.h">
+			<Option target="graphtheory"/>
+		</Unit>
+		<Unit filename="G:/clion/graphtheory/main.c">
+			<Option target="graphtheory"/>
+		</Unit>
+		<Unit filename="G:/clion/graphtheory/queue.c">
+			<Option target="graphtheory"/>
+		</Unit>
+		<Unit filename="G:/clion/graphtheory/queue.h">
+			<Option target="graphtheory"/>
+		</Unit>
+		<Unit filename="G:/clion/graphtheory/sparsegraph.c">
+			<Option target="graphtheory"/>
+		</Unit>
+		<Unit filename="G:/clion/graphtheory/sparsegraph.h">
+			<Option target="graphtheory"/>
+		</Unit>
+		<Unit filename="G:/clion/graphtheory/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
